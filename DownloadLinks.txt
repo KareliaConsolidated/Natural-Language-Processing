@@ -1,0 +1,2 @@
+Download Link English Word Embeddings: https://code.google.com/archive/p/word2vec/
+Download Link French Word Embeddings: curl -o ./wiki.multi.fr.vec https://dl.fbaipublicfiles.com/arrival/vectors/wiki.multi.fr.vec

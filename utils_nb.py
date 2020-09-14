@@ -77,7 +77,7 @@ def cosine_similarity(A, B):
 
     return cos
 
-# Procedure to plot and arrows that represents vectors with pyplot
+# Procedure to plot an arrows that represents vectors with pyplot
 def plot_vectors(vectors, colors=['k', 'b', 'r', 'm', 'c'], axes=None, fname='image.svg', ax=None):
     scale = 1
     scale_units = 'x'
